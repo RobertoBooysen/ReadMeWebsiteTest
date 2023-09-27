@@ -1,5 +1,3 @@
-<span style="color: black; font-size: 24px;">ReadMe Website Test</span>
-
 # <span style="color: blue; font-size: 18px;">This is a generated web page from a github readme file.</span>
 
 Open this page at <https://robertobooysen.github.io/ReadMeWebsiteTest/>
